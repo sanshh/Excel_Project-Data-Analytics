@@ -18,9 +18,7 @@ An interactive Excel dashboard for exploring salaries across different data-rela
 
 ### 📷 Dashboard Preview
 
-<!-- ADD YOUR DASHBOARD SCREENSHOT HERE -->
-
-![Salary Dashboard](./images/salary-dashboard.png)
+![Salary_Dashboard](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)  
 
 ### 📂 Project File
 
