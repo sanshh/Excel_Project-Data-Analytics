@@ -32,15 +32,13 @@ Analysis of data-related job market information to explore salary patterns, job 
 
 ### 📷 Analysis Preview
 
-<!-- ADD YOUR ANALYSIS SCREENSHOT HERE -->
-
-![Salary Analysis](./images/salary-analysis.png)
+![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)  
+![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)  
+![2_Project_Analysis_Chart4.png](/0_Resources/Images/2_Project_Analysis_Chart4.png)  
 
 ### 📂 Project File
 
-<!-- ADD THE LINK TO YOUR EXCEL FILE HERE -->
-
-[View Excel Project](YOUR_EXCEL_FILE_LINK)
+[View Excel Project](Project_2-Analysis)
 
 ---
 
@@ -63,11 +61,3 @@ Analysis of data-related job market information to explore salary patterns, job 
 - Creating interactive dashboards
 - Building charts and visualizations
 - Presenting insights from data
-
----
-
-## 🚀 Next Steps
-
-Currently expanding my skills in:
-
-**SQL • Power BI • Python • Data Analytics • Machine Learning**
