@@ -22,9 +22,7 @@ An interactive Excel dashboard for exploring salaries across different data-rela
 
 ### 📂 Project File
 
-<!-- ADD THE LINK TO YOUR EXCEL FILE HERE -->
-
-[View Excel Project](YOUR_EXCEL_FILE_LINK)
+[View Excel Project](1_Salary_Dashboard.xlsx)  
 
 ---
 
